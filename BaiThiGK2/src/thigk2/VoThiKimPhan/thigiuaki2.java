@@ -1,6 +1,7 @@
 package thigk2.VoThiKimPhan;
 import java.util.Scanner;
 public class thigiuaki2 {
+	// Câu 1: 
 	/*
      * TÓM TẮT CÁCH GIẢI:
      * 1. Xác định độ dài các cạnh của hình chữ nhật dựa trên khoảng cách giữa các tọa độ:
