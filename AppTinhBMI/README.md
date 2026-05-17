@@ -6,9 +6,5 @@ Môn học: Lập trình Java
 
 Công cụ: Eclipse IDE
 
-Kết quả chạy ứng dụng:
 
-
-
-!\[Kết quả](ketqua.png)
 
